@@ -1,0 +1,7 @@
+{
+  "transparent_background": true,
+  "referenced_image_paths": [
+    "E:/cladue缓存/AI全家动态指针_20261012/characters/qwen/poses-v1.png"
+  ],
+  "prompt": "Repair this exact nine-pose sprite sheet for QWEN. Keep all nine poses, same order, character design, hairstyle, clothes, props, ears/tail and cute chibi style. Only correct layout and transparent background quality. Scale EACH complete figure down to at most 70% of its tile width and tile height and center it in a strict 3 columns by 3 rows grid. Every tile must have a broad fully transparent margin of 15% on ALL FOUR SIDES; between figures there must be at least 30% tile width/height of genuinely empty space. None of the silhouettes can touch neighboring figures or the outer sheet border. Restore any tiny clipped hair/headband/shoe edge using the same character; do not change outfit or any pose. Preserve entire prop, all fingers, feet and hair tips. Remove all stray white/blue/pink speckles and alpha dust outside the nine figures; empty space must have alpha exactly zero, clean antialiasing only at the actual character boundary. No background, color fills, grid, labels or shadows. This is safe extraction source artwork, no title or watermark. Strictly nine COMPLETE SEPARATE figures, no overlaps. True alpha transparent square image, ideally 2048x2048."
+}

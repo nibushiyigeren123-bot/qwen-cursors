@@ -1,0 +1,49 @@
+{
+  "version": "1.0.0",
+  "schemes": 5,
+  "native_setupapi_used": true,
+  "registry_and_Windows_destination_redirected_for_isolation": true,
+  "only_fixture_edit": "reserved DIRID 10 and its placeholders replaced by user DIRID 32768; all installation sections/files/roles unchanged",
+  "actual_Explorer_context_menu_not_automated": true,
+  "active_system_cursors_unchanged": true,
+  "roles_copied_and_registered": 85,
+  "no_executable_hooks": true,
+  "does_not_claim_runtime_size_changes": true,
+  "records": [
+    {
+      "inf": "安装_Qwen_32px.inf",
+      "sha256": "1aaa73e8fe0998485d79daad5d2903939bf96b0da6ea81faee0ac3ff502526b7",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Qwen AI 32px"
+    },
+    {
+      "inf": "安装_Qwen_48px.inf",
+      "sha256": "2791f536c3cea822dbd04e52037a8ef8467541165785fd6004a944c6dcc28174",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Qwen AI 48px"
+    },
+    {
+      "inf": "安装_Qwen_64px.inf",
+      "sha256": "2df8c5c0df4d1255cf85c4bd2ec29677fae2df3d8e56c49e9de0371f5ae7a5e6",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Qwen AI 64px"
+    },
+    {
+      "inf": "安装_Qwen_128px.inf",
+      "sha256": "4c1383a276bc5865077a061a3456d54e783797c78d9666c9ff2f0c9fd1f85162",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Qwen AI 128px"
+    },
+    {
+      "inf": "安装_Qwen_256px.inf",
+      "sha256": "5da7b5f06d83fd9bf8786671206c990677aa392be9b56408063d73c487d0858a",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Qwen AI 256px"
+    }
+  ]
+}
