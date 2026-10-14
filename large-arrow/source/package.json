@@ -1,0 +1,28 @@
+{
+  "repository": "qwen-cursors",
+  "title": "Qwen 放大指针版",
+  "namespace": "QwenCursorsLargeArrow",
+  "accent": "#888fd0",
+  "version": "1.1.0",
+  "default_character": "qwen",
+  "characters": [
+    {
+      "id": "qwen",
+      "display": "Qwen",
+      "reference_page": 12
+    }
+  ],
+  "keeper_runtime_version": "1.1.0",
+  "edition": "large-arrow",
+  "loader": "CreateIconFromResourceEx for ANI",
+  "installation_slot_version": "1.0.0",
+  "actual_canvas_sizes": [
+    32,
+    48,
+    64,
+    72,
+    128,
+    256
+  ],
+  "default_native_size": 72
+}

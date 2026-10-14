@@ -1,0 +1,14 @@
+{
+  "character": "qwen",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a12d0c-8375-79f0-ace9-afa1b234d5a3\\exec-fc8b35cd-eb81-4ff2-9588-6ae6629e0605.png",
+  "target": "E:\\cladue缓存\\AI全家动态指针_20261012\\characters\\qwen\\poses-v1.png",
+  "sha256": "df8abafcbb7a4cce377ab982df380f12fcaa78ce26e79308eb00371b2d35e2e2",
+  "size": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "method": "built-in image_gen",
+  "seed": "not exposed by built-in tool",
+  "original_preserved": true
+}

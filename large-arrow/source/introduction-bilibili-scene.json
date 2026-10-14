@@ -1,0 +1,165 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "duration": 39,
+  "scenes": [
+    {
+      "kind": "intro",
+      "seconds": 3,
+      "caption": "Qwen 动态指针 · 17 状态 × 五档尺寸",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "kind": "states",
+      "character": "qwen",
+      "display": "Qwen",
+      "seconds": 4,
+      "caption": "Qwen · 全部 17 状态；绘制姿态加八相位二维微动",
+      "start": 3,
+      "end": 7
+    },
+    {
+      "kind": "focus",
+      "character": "qwen",
+      "display": "Qwen",
+      "roles": [
+        "Arrow",
+        "Help",
+        "Crosshair"
+      ],
+      "seconds": 3,
+      "caption": "Qwen · 正常、帮助与精确选择",
+      "start": 7,
+      "end": 10
+    },
+    {
+      "kind": "focus",
+      "character": "qwen",
+      "display": "Qwen",
+      "roles": [
+        "AppStarting",
+        "Wait",
+        "IBeam"
+      ],
+      "seconds": 3,
+      "caption": "Qwen · 后台运行、忙碌与文本选择",
+      "start": 10,
+      "end": 13
+    },
+    {
+      "kind": "focus",
+      "character": "qwen",
+      "display": "Qwen",
+      "roles": [
+        "Hand",
+        "Person",
+        "NWPen"
+      ],
+      "seconds": 3,
+      "caption": "Qwen · 链接、人员与手写选择",
+      "start": 13,
+      "end": 16
+    },
+    {
+      "kind": "focus",
+      "character": "qwen",
+      "display": "Qwen",
+      "roles": [
+        "No",
+        "Pin",
+        "UpArrow"
+      ],
+      "seconds": 3,
+      "caption": "Qwen · 不可用、位置与候选选择",
+      "start": 16,
+      "end": 19
+    },
+    {
+      "kind": "focus",
+      "character": "qwen",
+      "display": "Qwen",
+      "roles": [
+        "SizeNS",
+        "SizeWE"
+      ],
+      "seconds": 3,
+      "caption": "Qwen · 垂直与水平调整",
+      "start": 19,
+      "end": 22
+    },
+    {
+      "kind": "focus",
+      "character": "qwen",
+      "display": "Qwen",
+      "roles": [
+        "SizeNWSE",
+        "SizeNESW",
+        "SizeAll"
+      ],
+      "seconds": 3,
+      "caption": "Qwen · 两种对角调整与移动",
+      "start": 22,
+      "end": 25
+    },
+    {
+      "kind": "sizes",
+      "character": "qwen",
+      "display": "Qwen",
+      "seconds": 5,
+      "caption": "Qwen · 实际像素 32 / 48 / 64 / 128 / 256 px，热点在功能符号上",
+      "start": 25,
+      "end": 30
+    },
+    {
+      "kind": "install",
+      "seconds": 6,
+      "caption": "安装方法 · 完整解压 → 选择角色与尺寸 → 可选开启尺寸保持",
+      "start": 30,
+      "end": 36
+    },
+    {
+      "kind": "outro",
+      "seconds": 3,
+      "caption": "社区分享 · 非商业使用 · 仓库与下载地址见简介",
+      "start": 36,
+      "end": 39
+    }
+  ],
+  "profile": {
+    "repository": "qwen-cursors",
+    "title": "Qwen",
+    "namespace": "QwenCursors",
+    "accent": "#888fd0",
+    "version": "1.0.0",
+    "default_character": "qwen",
+    "characters": [
+      {
+        "id": "qwen",
+        "display": "Qwen",
+        "reference_page": 12
+      }
+    ]
+  },
+  "palette": {
+    "repository": "qwen-cursors",
+    "accent": "#5B54C8",
+    "ink": "#231F45",
+    "muted": "#726E96",
+    "bg_start": "#F5F4FF",
+    "bg_end": "#DFDCFA",
+    "title": "Qwen 东方风光标库",
+    "subtitle": "蓝紫发 · 折扇一笔",
+    "quote": "蓝紫长发配一把折扇，一笔一画都是东方的留白。",
+    "characters": [
+      {
+        "id": "qwen",
+        "label": "Qwen",
+        "traits": "蓝紫长发，手持中国风扇子"
+      }
+    ]
+  },
+  "bgm_sha256": "4bc699d0c98e1f150b1f04f576c12b0b963dea638d34b845b087fea35e424936",
+  "music": "MusMus / watson - 放課後アフタースクール"
+}
