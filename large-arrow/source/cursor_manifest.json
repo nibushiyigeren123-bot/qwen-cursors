@@ -1,6 +1,24 @@
 [
   {
     "character": "qwen",
+    "size": 96,
+    "role": "Arrow",
+    "label": "正常选择",
+    "file": "cursors/qwen/96/Arrow.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 12,
+    "frame_ms": 200.0,
+    "action": "idle",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "3595cfb4ba8961642d94de1a1998f4a4776f1bccd3fe619e2b1fd3a72a367e39"
+  },
+  {
+    "character": "qwen",
     "size": 32,
     "role": "Arrow",
     "label": "正常选择",
@@ -13,7 +31,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "2e82706df32b5c4e79ce0f08ffa5d0839d8a91756cda3f181d3c2f168fd0de51"
   },
   {
     "character": "qwen",
@@ -29,7 +49,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "f489b07193214b603f395e9150cc70af9ba97808e8186ac504288f3e9606c5a9"
   },
   {
     "character": "qwen",
@@ -45,7 +67,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "382f2ab45ee05160a96b8dc744e7b0a664b94c00430e928a72cae64c8e205974"
   },
   {
     "character": "qwen",
@@ -61,7 +85,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "a46bc10f4420c0c15fa198122e87559c8179fcd4893393d40f0191a7d0d3bd96"
   },
   {
     "character": "qwen",
@@ -77,7 +103,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "853a2e9f35c50fd02c0d50168898233f7f7751c5837957e6a0fffd24bfcac27e"
   },
   {
     "character": "qwen",
@@ -93,7 +121,27 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "a4ca17f52200efb2c26cb433362b71f4ba9e4047234d0863ebb83e28e9348912"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/qwen/96/Help.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "68eb35ee2aac2e41628e8e9e54c3d422f7282d192bd4e3a0ac6490ddd318361f"
   },
   {
     "character": "qwen",
@@ -109,7 +157,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "8fb56a26bb6f0c6f857405da8a3526df34d3f02288a29d44284a6fbe03d6508e"
   },
   {
     "character": "qwen",
@@ -125,7 +175,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "91131b37d0df0883947c90b2a8b48fff25dc37b4607b8b2ceb930a49d0415ed9"
   },
   {
     "character": "qwen",
@@ -141,7 +193,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "184bea832748c3d877b0007c5adaf70d3dacb648bf28bcf09e5c8623d25cc31c"
   },
   {
     "character": "qwen",
@@ -157,7 +211,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "cce4c37677f42ba12ee82478ed0d3cd6f5d4bb7766594a86a30fb1a475e0995b"
   },
   {
     "character": "qwen",
@@ -173,7 +229,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "0c7a9cc6dfaff0c909609cd6a4f1da9159ab6b22b4acd99eb2e2486e66b67dbe"
   },
   {
     "character": "qwen",
@@ -189,7 +247,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "f7f66b07a41819764a9bbbbce294ae1dbb475d7e7c0fffda5269d2aa43cc3622"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/qwen/96/AppStarting.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "76f7786a3adb50966966814783c05102c88767b5b33820caea132d41f58ebf04"
   },
   {
     "character": "qwen",
@@ -205,7 +283,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "22577dd37bd2bb8756ffa4db7fa4aee0efa7bfbed6a1a9fae1a73db42fb267ce"
   },
   {
     "character": "qwen",
@@ -221,7 +301,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "62da659d95ef152413fa094909d93f82d2dd75e909b798bfb6585c337ffb1088"
   },
   {
     "character": "qwen",
@@ -237,7 +319,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "42db04c70a7cad94fcb448e8b17216ab320f1c7c2165b170753468ea42ea28b9"
   },
   {
     "character": "qwen",
@@ -253,7 +337,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "01d45b8a1511fbe76363452920f2f5ce72045e8b4d585a445d936729932bdd43"
   },
   {
     "character": "qwen",
@@ -269,7 +355,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "608757380049714a9af77f7c8bb0327d51c533d7971e164324df9c542dde30b2"
   },
   {
     "character": "qwen",
@@ -285,7 +373,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "d3f85e11ab96a3f668c77207ce08db014f1416a1ffedda25133434dfb24357a9"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/qwen/96/Wait.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "98883b3d669a6d6d0786f7fdfbf3cf62af2c2336105e7696ee2393bbae4c2f35"
   },
   {
     "character": "qwen",
@@ -301,7 +409,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "064b5deb25f6055fe6835136265f0c96e40349a4a831924147f47d844ac05d8c"
   },
   {
     "character": "qwen",
@@ -317,7 +427,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "6c76e0f0184a2a6c4b4be699b0398c11f22813899c8616fd0308d498d4cf514a"
   },
   {
     "character": "qwen",
@@ -333,7 +445,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "a52a0b90e1a4b4e96999e74211d46bd9c6baf0b6b8973e5acd0d4be292590445"
   },
   {
     "character": "qwen",
@@ -349,7 +463,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "f646c980481885d5ac27c08322234c599d9a0b773d682c7d6834015431f5339d"
   },
   {
     "character": "qwen",
@@ -365,7 +481,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "e26f73ab3d595e6d7438a1e23dab01ae2840ad4de955a42507fabcdd7bbd227c"
   },
   {
     "character": "qwen",
@@ -381,7 +499,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "13b633b1371793ef6d1f835c6152d31ff1240a7db5298055c978005ccc80cb05"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/qwen/96/Crosshair.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "885988717cdba169fa6dd7f198400da9336bdf46922c27d4ab915da676337ca5"
   },
   {
     "character": "qwen",
@@ -397,7 +535,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "859279100157057779e631e5c2e0ff981d440cc69aa8c0a7b63f3e4d5daebb3b"
   },
   {
     "character": "qwen",
@@ -413,7 +553,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "e2d54c4561a7828f917f3cab08e1fdbda55fa4d3cab8cf727bd4c5979c8b61b8"
   },
   {
     "character": "qwen",
@@ -429,7 +571,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "56d5a32fe3aab6f03cc6a58458d2c1eb91f7a2d6cf05002a558e328495d409a1"
   },
   {
     "character": "qwen",
@@ -445,7 +589,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "3ad055018c68880f6503ccae5e4974b9174d20621b5aac47348054dbb42467eb"
   },
   {
     "character": "qwen",
@@ -461,7 +607,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "7b67c75bbb90d7ab0a7c175fd339d01f9f2f4ee6a7b44b2f7517c13c4ef35c04"
   },
   {
     "character": "qwen",
@@ -477,7 +625,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "87291ea6461bf02f8e13c8c35bd6e5a78f3255fdd652eb1cef1446e1a2789fb5"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/qwen/96/IBeam.ani",
+    "hotspot": [
+      11,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "219d96a132b689b58dbf0f618f9d7e2b6fb00de10198ea22f58bcaaca72f3bdc"
   },
   {
     "character": "qwen",
@@ -493,7 +661,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "307d5951c474278ffdfaa6626d3cb786da4cbed2e1cdb4e67312db85dc54026e"
   },
   {
     "character": "qwen",
@@ -509,7 +679,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "0b5f6396c4786bfd11bdd75f3eef7a0f374ae4d1029358e4914fabe5a61dfac8"
   },
   {
     "character": "qwen",
@@ -525,7 +697,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "9be8eaae69fcb9d52f92c6b6e3401f4c9e74cc28e6819e3bcbf68896091e53ea"
   },
   {
     "character": "qwen",
@@ -541,7 +715,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "ce97b769e9a38d82a6cdc416585b1e7a65d16afc3b8b33eb11c7a2a1d192be30"
   },
   {
     "character": "qwen",
@@ -557,7 +733,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "1fd476a4173ea3a3beeabde7a06ab564270df0330f4f79d52d21b236c3f43deb"
   },
   {
     "character": "qwen",
@@ -573,7 +751,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "b09ee16419ef5ed69c7aaadbf185bd863d728dc3cafcc025285a90e5875ad379"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/qwen/96/NWPen.ani",
+    "hotspot": [
+      5,
+      33
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "d608190c141c1c9cd890ed6064718097a00269229a446de1bb0e29e525f606a1"
   },
   {
     "character": "qwen",
@@ -589,7 +787,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "24f6a2f626d47bab62b7b1875d0a30f1bd3b3f7b88c6be0cea3aa868eb482675"
   },
   {
     "character": "qwen",
@@ -605,7 +805,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "4d033092dc68b9670f261d3f8d237ebffe1683eb83d1ac8a32c818fc60f61f49"
   },
   {
     "character": "qwen",
@@ -621,7 +823,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "cc97d30f5ed4fb7e08524a9b8ea4e8b6e9ce9fd101220ae9ae38fbd0f1ef3882"
   },
   {
     "character": "qwen",
@@ -637,7 +841,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "dec2c54041f1c437621a0a70daf148e900f5383969f7de1b8a3c2a507dc2cfd2"
   },
   {
     "character": "qwen",
@@ -653,7 +859,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "2765dcad9e9ed97ac456e60bb40ca6ee628357df8548131644ccad5f1007b647"
   },
   {
     "character": "qwen",
@@ -669,7 +877,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "9bff3227e1987c7489a0a7850aa2bee245fd7dca6b8d202e0a1e68870bbef963"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/qwen/96/No.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "f360c67f7771c87f2efb46c7dfe674b352454946387355bbba00044b2eb7c14e"
   },
   {
     "character": "qwen",
@@ -685,7 +913,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "6c53f980ee6984fcb0fd8ee5b3430d6f582d79721fe9ffa3d34f94f616bbb276"
   },
   {
     "character": "qwen",
@@ -701,7 +931,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "8632582081f8589ca1b4cbc212ff6c2905700f40fda3c0b1f6658f1d7cb5df1c"
   },
   {
     "character": "qwen",
@@ -717,7 +949,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "bd80a7ad796c8ceb5ca4afdbf60d6d19183746222f0e89679dd86126244d9133"
   },
   {
     "character": "qwen",
@@ -733,7 +967,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "81e1df4b83bb7a154105e4ebd0dc927c58315fe37ca50eeca47a6519fa4c326d"
   },
   {
     "character": "qwen",
@@ -749,7 +985,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "6570e55374848e8fc114e5264de7fed9041cb0bc5280291c82aef55f6f395c09"
   },
   {
     "character": "qwen",
@@ -765,7 +1003,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "96e63e9c8e7b03153ed0a24c98a4bf03c24b9143e8de7497b4c6198d2ec98da4"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/qwen/96/SizeNS.ani",
+    "hotspot": [
+      9,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "65b8185ad3cc7da7ea70f900f170598748b23b5a6e7792dc7dd7f09502b7cd67"
   },
   {
     "character": "qwen",
@@ -781,7 +1039,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "2ee500e3008b3ce895a9a50aa05f621b5df8a044c04a2a26da0e043c85a86181"
   },
   {
     "character": "qwen",
@@ -797,7 +1057,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "1cfa0587bf3fc1d4be67bf50461d4e2d1cd38c425fef5e13fcfd05386ce68694"
   },
   {
     "character": "qwen",
@@ -813,7 +1075,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "6abebdf04ca0a69392d88fa029bda85a1ea939be4173b8c02afeeef72ff52937"
   },
   {
     "character": "qwen",
@@ -829,7 +1093,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "91e7c68c38cc6d6d39055a81e3095ebe6c0c460a7c3d6a9569a23c608c20df26"
   },
   {
     "character": "qwen",
@@ -845,7 +1111,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "4f915907f5fa902b730039e3a04177f2fa1b0e47846734a32dd5a0138a57ba85"
   },
   {
     "character": "qwen",
@@ -861,7 +1129,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "0be871982eaf7b9b49e8232191a1c345e6ecff5ed6170e1b9e53f16dea14dc31"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/qwen/96/SizeWE.ani",
+    "hotspot": [
+      19,
+      9
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "b6267142e5c4b28b7dfaaba44c52d14407e7fe214ffb193e71f88449e74bfa63"
   },
   {
     "character": "qwen",
@@ -877,7 +1165,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "6ee2f34c7873374cc96bb1ee5263850b7dfef0e2a39d60da66ccc599535056af"
   },
   {
     "character": "qwen",
@@ -893,7 +1183,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "e313e487a21bfeb0f8af23ef81d967ed28c2d221b796dfb2e0cf7d2e6fefedfd"
   },
   {
     "character": "qwen",
@@ -909,7 +1201,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "e2e7a3d1cdf8087a915c5a89f57bd49bedf8df9aeb0b99fbd291e73e42e89af3"
   },
   {
     "character": "qwen",
@@ -925,7 +1219,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "b4230036b9d8de26d526f8f54a1e1b378d0562021a9311c73547204b48cad97b"
   },
   {
     "character": "qwen",
@@ -941,7 +1237,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "87f1330bba78bd3ae100e479635cfda2c13e048122cf183c6ba316b3bc697c95"
   },
   {
     "character": "qwen",
@@ -957,7 +1255,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "745244d6753fe6c534ee743e3f431a773cea4d127ef4e37345c676f583dc7772"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/qwen/96/SizeNWSE.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "f53b0cd69d73c83a2ca1e9fff11b1909cb75016a0ae39d23b932e5992f8c271f"
   },
   {
     "character": "qwen",
@@ -973,7 +1291,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "34e115eb60449803756aad2d671347022862b73cff47a77d4449d7d4795e6138"
   },
   {
     "character": "qwen",
@@ -989,7 +1309,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "80045205b908cbdecbc31dc50d7e63af98cbdc617ad3d6d9236e1fe5d517cf69"
   },
   {
     "character": "qwen",
@@ -1005,7 +1327,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "97b2b2e4f851b14675e0665b61b0c5afff6ff37cb87d38a8b2188e7e592e35b4"
   },
   {
     "character": "qwen",
@@ -1021,7 +1345,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "335e87ce6c11359007225a0a8965584d9229396ab55e05961c3e163653cbef75"
   },
   {
     "character": "qwen",
@@ -1037,7 +1363,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "10af35d4ef760766eac6e8a8f95af06e589ea064849c888941c89ed4ae4c0688"
   },
   {
     "character": "qwen",
@@ -1053,7 +1381,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "7aa36091b43224c0de700aa4e0f6f8daad06d7f9c494c77175f318c24b11ff95"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/qwen/96/SizeNESW.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "dcb81022f823e06356c996cef577c3e31237870849581ef85d55a4dfdfd96171"
   },
   {
     "character": "qwen",
@@ -1069,7 +1417,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "c032acaefa6a3738444e3ce6fce25217e364cb1364ab48e7df9a05b9afaae504"
   },
   {
     "character": "qwen",
@@ -1085,7 +1435,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "899decd55580512ad324fbd614000a5f2ba5bd64c3f78aed3bd23bad806b756c"
   },
   {
     "character": "qwen",
@@ -1101,7 +1453,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "47f859aa2fbdf0fe5ca91c975f316203fbec17a13eb87b29791a4d621d57b175"
   },
   {
     "character": "qwen",
@@ -1117,7 +1471,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "db66088d2316985f4ee34af3cd01f230dde8479ef3adbea2156d4df32e3d7ae4"
   },
   {
     "character": "qwen",
@@ -1133,7 +1489,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "0d537a3b704037c4f533d9117046611d88ec13203da42bfba7fe4cd72a08114d"
   },
   {
     "character": "qwen",
@@ -1149,7 +1507,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "7f0bae91824238583c11600814575cc26745fad45bec831a48c95a830a5e6b3a"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/qwen/96/SizeAll.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "8c9a95590481ffe864dd4a50e0c54b19b5cac0291decac197d405321df1194ff"
   },
   {
     "character": "qwen",
@@ -1165,7 +1543,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "820294dbf34d269ec684f4348b9075380c3a7a24278326da1ca21577c44bd4b4"
   },
   {
     "character": "qwen",
@@ -1181,7 +1561,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "c5efb606da280a8ecb4d610183a6e6afa9ca1272952f0bdda32a2c59e235abe3"
   },
   {
     "character": "qwen",
@@ -1197,7 +1579,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "cc8436da3443d638db5981e597611cc1b73404ac68f97638e3a2e47c1b8a953e"
   },
   {
     "character": "qwen",
@@ -1213,7 +1597,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "670a16ddd167d4a0c4685c89b00a24e5f2c37bcbb3ac6595ac7b4462ab90206a"
   },
   {
     "character": "qwen",
@@ -1229,7 +1615,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "ede0a02abb566a0fe69e599014727bd804e4ad6b20f898dfdc39d63c95f72155"
   },
   {
     "character": "qwen",
@@ -1245,7 +1633,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "432ddc3efecc3660617abf1c24e62cb30e353f2b6971fca4515ae0f8a347a989"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/qwen/96/UpArrow.ani",
+    "hotspot": [
+      17,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "d989c92eb98b88d3d38f1e82b59ec419ab35483755077256d5450b57ab9dc29b"
   },
   {
     "character": "qwen",
@@ -1261,7 +1669,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "a2feb4214dc642a57ed89ef672b69ebf38661071bcd81d78263649d03bb84c4f"
   },
   {
     "character": "qwen",
@@ -1277,7 +1687,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "5799b1501e85030b91c892479bf76bf3807b39c3f9daa0fff63fb21b1fea5755"
   },
   {
     "character": "qwen",
@@ -1293,7 +1705,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "ab81750782bb5a3c99a2a60ecdb3c0475769515536964dbf3b71cc819f3fd510"
   },
   {
     "character": "qwen",
@@ -1309,7 +1723,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "7484605786bd1553f9e374afaf137a96b635a7f94cb8ff2cb8fcd50fddd3137f"
   },
   {
     "character": "qwen",
@@ -1325,7 +1741,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "64402817349e5f87c862a5b33bd533d90677196c1ece2bcbc0f4e7af710f7d90"
   },
   {
     "character": "qwen",
@@ -1341,7 +1759,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "46fd379728a5ba5aa093b02cdfb1b9350379444e0d6d0af78adfc5231da690cc"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/qwen/96/Hand.ani",
+    "hotspot": [
+      13,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "38d908213b43e4dddd7ce175436a2ac1f26fea2a8ac3e0b135a8e8be799be486"
   },
   {
     "character": "qwen",
@@ -1357,7 +1795,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "8a7afb3d1e9fa204b036480ce0cff965d3b30f8159c02128571d47c1ab051a66"
   },
   {
     "character": "qwen",
@@ -1373,7 +1813,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "d3362cb918eeddfa6d8a151dd007fc8ce26440c7b62defb95ca9412a51d53582"
   },
   {
     "character": "qwen",
@@ -1389,7 +1831,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "fa888cb608dd88b1f3247afd05b8ce0a311c7e0295206a75c76dfe9718ee68f8"
   },
   {
     "character": "qwen",
@@ -1405,7 +1849,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "4b8dfd0ea488eb4b1def009f49232e32ab5d3a07961b555d1e58ff5f3999b46e"
   },
   {
     "character": "qwen",
@@ -1421,7 +1867,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "948a19cb4a985ae50ceadece297d9e6f36bcbeea4a613b7ff5ed2d155a7c963a"
   },
   {
     "character": "qwen",
@@ -1437,7 +1885,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "dd9ebd9b8dd4368963052f93e9d6122e6ea171e37b49f19bf916681237c1ca06"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/qwen/96/Pin.ani",
+    "hotspot": [
+      16,
+      34
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "c81a236121a2f2fe821e34ca0db56eb4794d172204ef7d2130b8b8e65ac439f6"
   },
   {
     "character": "qwen",
@@ -1453,7 +1921,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "c517e37728cabec3db2080b40d2bd13087b0a07397b3e21c0041027eb5fdac2b"
   },
   {
     "character": "qwen",
@@ -1469,7 +1939,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "b49b3f02f123fdd28c500474b52ad0798393dbb8702a1cb1ba695c82ffd3d6ea"
   },
   {
     "character": "qwen",
@@ -1485,7 +1957,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "fe2962f81319bbcbca07cc2c04186270aee2a74a05aba5dba0b8097382b26d4c"
   },
   {
     "character": "qwen",
@@ -1501,7 +1975,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "37b4a7081d891b98e1c82a1be7bca1e8ba685cb87d15c55f5dbf3971c124870d"
   },
   {
     "character": "qwen",
@@ -1517,7 +1993,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "656740adb881a9ba08a05ad8305df0c8c26dd3987e9f2ff0053d77e4395474e7"
   },
   {
     "character": "qwen",
@@ -1533,7 +2011,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "336de2847c88e2c0b0d386e0a1cd11a5e0635824a9c54d43d9e21ac3ce423454"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/qwen/96/Person.ani",
+    "hotspot": [
+      18,
+      10
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "4d3627c184b4f005ef227717830ed727cd718ebf6831791779077e0ec2da2546"
   },
   {
     "character": "qwen",
@@ -1549,7 +2047,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "dc67631e603e4735fd2e4ddaa7c9c56dc471694433ff15049e1fd882e96a2c47"
   },
   {
     "character": "qwen",
@@ -1565,7 +2065,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "7c109bad27d8f7f256ad4aeec1f6c8400b04a0e5c6a4d3d37c0f62c25540908a"
   },
   {
     "character": "qwen",
@@ -1581,7 +2083,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "60b0d82992aba3cde294956652eaa645bd16141c32d3aa7502e2fa4ad66668b4"
   },
   {
     "character": "qwen",
@@ -1597,7 +2101,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "cb3c0a88546a9d2abd28b375ca6060dbc33ee814012860eeddecbabeef2a9bbf"
   },
   {
     "character": "qwen",
@@ -1613,7 +2119,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "8397675d473fd43ffb6779f933958d58e4111483dc749e807d464c78c5c89fa1"
   },
   {
     "character": "qwen",
@@ -1629,6 +2137,8 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "7a42f0040edd6add96ad9cf4eaa9ae7728f2555a6c462f93da2f773525aef004"
   }
 ]

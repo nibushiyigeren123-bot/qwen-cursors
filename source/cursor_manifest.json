@@ -12,247 +12,10 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
-  },
-  {
-    "character": "qwen",
-    "size": 32,
-    "role": "Help",
-    "label": "帮助选择",
-    "file": "cursors/qwen/32/Help.ani",
-    "hotspot": [
-      0,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "qwen",
-    "size": 32,
-    "role": "AppStarting",
-    "label": "后台运行",
-    "file": "cursors/qwen/32/AppStarting.ani",
-    "hotspot": [
-      0,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "qwen",
-    "size": 32,
-    "role": "Wait",
-    "label": "忙碌",
-    "file": "cursors/qwen/32/Wait.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "qwen",
-    "size": 32,
-    "role": "Crosshair",
-    "label": "精确选择",
-    "file": "cursors/qwen/32/Crosshair.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "qwen",
-    "size": 32,
-    "role": "IBeam",
-    "label": "文本选择",
-    "file": "cursors/qwen/32/IBeam.ani",
-    "hotspot": [
-      2,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "qwen",
-    "size": 32,
-    "role": "NWPen",
-    "label": "手写",
-    "file": "cursors/qwen/32/NWPen.ani",
-    "hotspot": [
-      1,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "qwen",
-    "size": 32,
-    "role": "No",
-    "label": "不可用",
-    "file": "cursors/qwen/32/No.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "failed"
-  },
-  {
-    "character": "qwen",
-    "size": 32,
-    "role": "SizeNS",
-    "label": "垂直调整",
-    "file": "cursors/qwen/32/SizeNS.ani",
-    "hotspot": [
-      2,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "qwen",
-    "size": 32,
-    "role": "SizeWE",
-    "label": "水平调整",
-    "file": "cursors/qwen/32/SizeWE.ani",
-    "hotspot": [
-      4,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "qwen",
-    "size": 32,
-    "role": "SizeNWSE",
-    "label": "对角调整1",
-    "file": "cursors/qwen/32/SizeNWSE.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "qwen",
-    "size": 32,
-    "role": "SizeNESW",
-    "label": "对角调整2",
-    "file": "cursors/qwen/32/SizeNESW.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-left"
-  },
-  {
-    "character": "qwen",
-    "size": 32,
-    "role": "SizeAll",
-    "label": "移动",
-    "file": "cursors/qwen/32/SizeAll.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "qwen",
-    "size": 32,
-    "role": "UpArrow",
-    "label": "候选选择",
-    "file": "cursors/qwen/32/UpArrow.ani",
-    "hotspot": [
-      4,
-      0
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "qwen",
-    "size": 32,
-    "role": "Hand",
-    "label": "链接选择",
-    "file": "cursors/qwen/32/Hand.ani",
-    "hotspot": [
-      3,
-      0
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
-  },
-  {
-    "character": "qwen",
-    "size": 32,
-    "role": "Pin",
-    "label": "位置选择",
-    "file": "cursors/qwen/32/Pin.ani",
-    "hotspot": [
-      3,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "qwen",
-    "size": 32,
-    "role": "Person",
-    "label": "人员选择",
-    "file": "cursors/qwen/32/Person.ani",
-    "hotspot": [
-      4,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "idle",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "a0ce1b82b58821ba29f5b354af7454d2077adecebc2d7fadf124f8568a250aa2"
   },
   {
     "character": "qwen",
@@ -267,247 +30,10 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
-  },
-  {
-    "character": "qwen",
-    "size": 48,
-    "role": "Help",
-    "label": "帮助选择",
-    "file": "cursors/qwen/48/Help.ani",
-    "hotspot": [
-      1,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "qwen",
-    "size": 48,
-    "role": "AppStarting",
-    "label": "后台运行",
-    "file": "cursors/qwen/48/AppStarting.ani",
-    "hotspot": [
-      1,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "qwen",
-    "size": 48,
-    "role": "Wait",
-    "label": "忙碌",
-    "file": "cursors/qwen/48/Wait.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "qwen",
-    "size": 48,
-    "role": "Crosshair",
-    "label": "精确选择",
-    "file": "cursors/qwen/48/Crosshair.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "qwen",
-    "size": 48,
-    "role": "IBeam",
-    "label": "文本选择",
-    "file": "cursors/qwen/48/IBeam.ani",
-    "hotspot": [
-      3,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "qwen",
-    "size": 48,
-    "role": "NWPen",
-    "label": "手写",
-    "file": "cursors/qwen/48/NWPen.ani",
-    "hotspot": [
-      1,
-      12
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "qwen",
-    "size": 48,
-    "role": "No",
-    "label": "不可用",
-    "file": "cursors/qwen/48/No.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "failed"
-  },
-  {
-    "character": "qwen",
-    "size": 48,
-    "role": "SizeNS",
-    "label": "垂直调整",
-    "file": "cursors/qwen/48/SizeNS.ani",
-    "hotspot": [
-      3,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "qwen",
-    "size": 48,
-    "role": "SizeWE",
-    "label": "水平调整",
-    "file": "cursors/qwen/48/SizeWE.ani",
-    "hotspot": [
-      6,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "qwen",
-    "size": 48,
-    "role": "SizeNWSE",
-    "label": "对角调整1",
-    "file": "cursors/qwen/48/SizeNWSE.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "qwen",
-    "size": 48,
-    "role": "SizeNESW",
-    "label": "对角调整2",
-    "file": "cursors/qwen/48/SizeNESW.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-left"
-  },
-  {
-    "character": "qwen",
-    "size": 48,
-    "role": "SizeAll",
-    "label": "移动",
-    "file": "cursors/qwen/48/SizeAll.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "qwen",
-    "size": 48,
-    "role": "UpArrow",
-    "label": "候选选择",
-    "file": "cursors/qwen/48/UpArrow.ani",
-    "hotspot": [
-      5,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "qwen",
-    "size": 48,
-    "role": "Hand",
-    "label": "链接选择",
-    "file": "cursors/qwen/48/Hand.ani",
-    "hotspot": [
-      4,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
-  },
-  {
-    "character": "qwen",
-    "size": 48,
-    "role": "Pin",
-    "label": "位置选择",
-    "file": "cursors/qwen/48/Pin.ani",
-    "hotspot": [
-      5,
-      12
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "qwen",
-    "size": 48,
-    "role": "Person",
-    "label": "人员选择",
-    "file": "cursors/qwen/48/Person.ani",
-    "hotspot": [
-      6,
-      3
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "idle",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "30558a387cd03daf083fb67801f7dd2996c26132e21e80b2a82396f5bb741256"
   },
   {
     "character": "qwen",
@@ -522,247 +48,28 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
+    "action": "idle",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "9a048b8381e937761cda3e49c4267c03c3c09e40e3e05e0aa7b9bd690e31ff32"
   },
   {
     "character": "qwen",
-    "size": 64,
-    "role": "Help",
-    "label": "帮助选择",
-    "file": "cursors/qwen/64/Help.ani",
+    "size": 96,
+    "role": "Arrow",
+    "label": "正常选择",
+    "file": "cursors/qwen/96/Arrow.ani",
     "hotspot": [
       1,
-      1
+      2
     ],
     "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "qwen",
-    "size": 64,
-    "role": "AppStarting",
-    "label": "后台运行",
-    "file": "cursors/qwen/64/AppStarting.ani",
-    "hotspot": [
-      1,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "qwen",
-    "size": 64,
-    "role": "Wait",
-    "label": "忙碌",
-    "file": "cursors/qwen/64/Wait.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "qwen",
-    "size": 64,
-    "role": "Crosshair",
-    "label": "精确选择",
-    "file": "cursors/qwen/64/Crosshair.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "qwen",
-    "size": 64,
-    "role": "IBeam",
-    "label": "文本选择",
-    "file": "cursors/qwen/64/IBeam.ani",
-    "hotspot": [
-      4,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "qwen",
-    "size": 64,
-    "role": "NWPen",
-    "label": "手写",
-    "file": "cursors/qwen/64/NWPen.ani",
-    "hotspot": [
-      1,
-      16
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "qwen",
-    "size": 64,
-    "role": "No",
-    "label": "不可用",
-    "file": "cursors/qwen/64/No.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "failed"
-  },
-  {
-    "character": "qwen",
-    "size": 64,
-    "role": "SizeNS",
-    "label": "垂直调整",
-    "file": "cursors/qwen/64/SizeNS.ani",
-    "hotspot": [
-      3,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "qwen",
-    "size": 64,
-    "role": "SizeWE",
-    "label": "水平调整",
-    "file": "cursors/qwen/64/SizeWE.ani",
-    "hotspot": [
-      8,
-      3
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "qwen",
-    "size": 64,
-    "role": "SizeNWSE",
-    "label": "对角调整1",
-    "file": "cursors/qwen/64/SizeNWSE.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "qwen",
-    "size": 64,
-    "role": "SizeNESW",
-    "label": "对角调整2",
-    "file": "cursors/qwen/64/SizeNESW.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-left"
-  },
-  {
-    "character": "qwen",
-    "size": 64,
-    "role": "SizeAll",
-    "label": "移动",
-    "file": "cursors/qwen/64/SizeAll.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "qwen",
-    "size": 64,
-    "role": "UpArrow",
-    "label": "候选选择",
-    "file": "cursors/qwen/64/UpArrow.ani",
-    "hotspot": [
-      7,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "qwen",
-    "size": 64,
-    "role": "Hand",
-    "label": "链接选择",
-    "file": "cursors/qwen/64/Hand.ani",
-    "hotspot": [
-      5,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
-  },
-  {
-    "character": "qwen",
-    "size": 64,
-    "role": "Pin",
-    "label": "位置选择",
-    "file": "cursors/qwen/64/Pin.ani",
-    "hotspot": [
-      7,
-      16
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "qwen",
-    "size": 64,
-    "role": "Person",
-    "label": "人员选择",
-    "file": "cursors/qwen/64/Person.ani",
-    "hotspot": [
-      8,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "jiffies": 12,
+    "frame_ms": 200.0,
+    "action": "idle",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "f1d7acc14a9df4e66c81627e99182baa83f57cb6ded7be1d622b04f30411b085"
   },
   {
     "character": "qwen",
@@ -777,247 +84,10 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
-  },
-  {
-    "character": "qwen",
-    "size": 128,
-    "role": "Help",
-    "label": "帮助选择",
-    "file": "cursors/qwen/128/Help.ani",
-    "hotspot": [
-      2,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "qwen",
-    "size": 128,
-    "role": "AppStarting",
-    "label": "后台运行",
-    "file": "cursors/qwen/128/AppStarting.ani",
-    "hotspot": [
-      2,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "qwen",
-    "size": 128,
-    "role": "Wait",
-    "label": "忙碌",
-    "file": "cursors/qwen/128/Wait.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "qwen",
-    "size": 128,
-    "role": "Crosshair",
-    "label": "精确选择",
-    "file": "cursors/qwen/128/Crosshair.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "qwen",
-    "size": 128,
-    "role": "IBeam",
-    "label": "文本选择",
-    "file": "cursors/qwen/128/IBeam.ani",
-    "hotspot": [
-      8,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "qwen",
-    "size": 128,
-    "role": "NWPen",
-    "label": "手写",
-    "file": "cursors/qwen/128/NWPen.ani",
-    "hotspot": [
-      2,
-      32
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "qwen",
-    "size": 128,
-    "role": "No",
-    "label": "不可用",
-    "file": "cursors/qwen/128/No.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "failed"
-  },
-  {
-    "character": "qwen",
-    "size": 128,
-    "role": "SizeNS",
-    "label": "垂直调整",
-    "file": "cursors/qwen/128/SizeNS.ani",
-    "hotspot": [
-      7,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "qwen",
-    "size": 128,
-    "role": "SizeWE",
-    "label": "水平调整",
-    "file": "cursors/qwen/128/SizeWE.ani",
-    "hotspot": [
-      17,
-      7
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "qwen",
-    "size": 128,
-    "role": "SizeNWSE",
-    "label": "对角调整1",
-    "file": "cursors/qwen/128/SizeNWSE.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "qwen",
-    "size": 128,
-    "role": "SizeNESW",
-    "label": "对角调整2",
-    "file": "cursors/qwen/128/SizeNESW.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-left"
-  },
-  {
-    "character": "qwen",
-    "size": 128,
-    "role": "SizeAll",
-    "label": "移动",
-    "file": "cursors/qwen/128/SizeAll.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "qwen",
-    "size": 128,
-    "role": "UpArrow",
-    "label": "候选选择",
-    "file": "cursors/qwen/128/UpArrow.ani",
-    "hotspot": [
-      14,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "qwen",
-    "size": 128,
-    "role": "Hand",
-    "label": "链接选择",
-    "file": "cursors/qwen/128/Hand.ani",
-    "hotspot": [
-      10,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
-  },
-  {
-    "character": "qwen",
-    "size": 128,
-    "role": "Pin",
-    "label": "位置选择",
-    "file": "cursors/qwen/128/Pin.ani",
-    "hotspot": [
-      13,
-      32
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "qwen",
-    "size": 128,
-    "role": "Person",
-    "label": "人员选择",
-    "file": "cursors/qwen/128/Person.ani",
-    "hotspot": [
-      15,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "idle",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "e430db60a0e5497a6a1df5f68484b07743b1b454243d4ab9bbcb00c70bfd547d"
   },
   {
     "character": "qwen",
@@ -1032,7 +102,100 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
+    "action": "idle",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "82d4eaa416f965dc17e5ade8748eb8a60dccd3fbd3ab6598b76cbf15477d71c5"
+  },
+  {
+    "character": "qwen",
+    "size": 32,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/qwen/32/Help.ani",
+    "hotspot": [
+      0,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "07b33bf527acbff5c8fb406019aea26d294b557ac5770db8d8e8a25d7f0e27d9"
+  },
+  {
+    "character": "qwen",
+    "size": 48,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/qwen/48/Help.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "0d4874238d645ac0dadf657b622de235ceab759926e7a57ad172ffe8da63442f"
+  },
+  {
+    "character": "qwen",
+    "size": 64,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/qwen/64/Help.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "fb2f11e7bead89be2f7c63ff488f324f1ac7aafbeb4004a7c473ddc808a53436"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/qwen/96/Help.ani",
+    "hotspot": [
+      1,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "60e24f8b074b3ddcb4027f16c52ac32d9261418c4b602d508adb0bfaae458408"
+  },
+  {
+    "character": "qwen",
+    "size": 128,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/qwen/128/Help.ani",
+    "hotspot": [
+      2,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "e49eb489156fb9ae106ff24d2ce1fa215a0bf15a639ee258cfe3f0023579f85f"
   },
   {
     "character": "qwen",
@@ -1047,7 +210,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "review"
+    "action": "review",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "9fb9354c3b1a1a629598a6bdd6a1ba48a19ef9a71968f1d35099052ae4c80419"
+  },
+  {
+    "character": "qwen",
+    "size": 32,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/qwen/32/AppStarting.ani",
+    "hotspot": [
+      0,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "7e1f7acd41ebb59cd251169ab8f52f78af18739d617ed0a1140141cf7ede016a"
+  },
+  {
+    "character": "qwen",
+    "size": 48,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/qwen/48/AppStarting.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "73eed94838e788f6c1bdd4a36f82dd0f266c9cd5e4a86caf3f4eddb31c4c1363"
+  },
+  {
+    "character": "qwen",
+    "size": 64,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/qwen/64/AppStarting.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "846a52a7dfae7f65f39f4d3092f33cb9a1debb09cf85ee68ac65a5f73e277dad"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/qwen/96/AppStarting.ani",
+    "hotspot": [
+      1,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "bbbe7d5b59f5f3cdd9e7af4a5fc6330d6284c005ac985268cda88d093d53ab3d"
+  },
+  {
+    "character": "qwen",
+    "size": 128,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/qwen/128/AppStarting.ani",
+    "hotspot": [
+      2,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "05c09d28b82476ac4b68ac26cd0d6c29eb44a795a9627dde8013c7ee642cf97b"
   },
   {
     "character": "qwen",
@@ -1062,7 +318,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "waiting"
+    "action": "waiting",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "7f9f6ad47ae37e70073460a55ec37ba7a9302c42864faa416d9c35214ad198e4"
+  },
+  {
+    "character": "qwen",
+    "size": 32,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/qwen/32/Wait.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "05694e5e94388d781e8efabec5dc19142e08292deb3d9274915402e8fdac3029"
+  },
+  {
+    "character": "qwen",
+    "size": 48,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/qwen/48/Wait.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "525813645c7eb4ed5703ab95044e917d6bf5932f33d6073eb350062492017a85"
+  },
+  {
+    "character": "qwen",
+    "size": 64,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/qwen/64/Wait.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "d806a29a39c6c325437382960cac82348b16caebe8eb7cb4f35f3f9fe97aa78d"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/qwen/96/Wait.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "c049dc1c7e54bbfffbe20a2f76714fa77549ad61a539ca82ccc902ebfb28eef5"
+  },
+  {
+    "character": "qwen",
+    "size": 128,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/qwen/128/Wait.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "21c012d1a77ae0506382998592b89b4384d338752de19127453f70d849e77ab7"
   },
   {
     "character": "qwen",
@@ -1077,7 +426,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "working"
+    "action": "working",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "9d5e177f7925cbd0bca2f423de6b6a86df150a8a3ac443fe28e8fd25bd28e3c7"
+  },
+  {
+    "character": "qwen",
+    "size": 32,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/qwen/32/Crosshair.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "88f28e4564e4443e46fe32520fd9df5dd5c53bc68c375f8c5ced5dcb337cc592"
+  },
+  {
+    "character": "qwen",
+    "size": 48,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/qwen/48/Crosshair.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "a4d1879441a4acec797fe4e0ece39a944b4c56d2b9aff64407d61c7074ab4954"
+  },
+  {
+    "character": "qwen",
+    "size": 64,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/qwen/64/Crosshair.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "38ff6967bd142081d0ed7160b605a428d844c15df29f301bf179e79a6fc5354c"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/qwen/96/Crosshair.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "902ecf520403dc4b54b1e75336c8886e332817442b3a5b2029545911b98d7fa6"
+  },
+  {
+    "character": "qwen",
+    "size": 128,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/qwen/128/Crosshair.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "8d79ac174fd2cd98109beb452274ff97a2f7b1ccd23daab6bd8da65d2b9b1366"
   },
   {
     "character": "qwen",
@@ -1092,7 +534,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "review"
+    "action": "review",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "3aaf5fa5af91d4270bf33af8fcef9f877ae15689991d93e06c77b20c8f284dbc"
+  },
+  {
+    "character": "qwen",
+    "size": 32,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/qwen/32/IBeam.ani",
+    "hotspot": [
+      2,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "ad2e76cc1a9459983554a9d5d647df6741b8c718e85839cb3c4bd1cd0c662928"
+  },
+  {
+    "character": "qwen",
+    "size": 48,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/qwen/48/IBeam.ani",
+    "hotspot": [
+      3,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "74abb904f882bb18e59f9ef19c9220dce81bf23920eef9b91e1f6f77d8e57ce8"
+  },
+  {
+    "character": "qwen",
+    "size": 64,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/qwen/64/IBeam.ani",
+    "hotspot": [
+      4,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "46d233c62cd29089925755e2fa94c04b68e512f5014d55c3f0900ef52aaaad8f"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/qwen/96/IBeam.ani",
+    "hotspot": [
+      6,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "6e9b1d6edba22de4865d0d5d0f49c65149466c5f35a54895db970eb86990da88"
+  },
+  {
+    "character": "qwen",
+    "size": 128,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/qwen/128/IBeam.ani",
+    "hotspot": [
+      8,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "2b6dd8808415d2cb8d30e7f9b0e865521aa7edd851277712df53f68d236c7600"
   },
   {
     "character": "qwen",
@@ -1107,7 +642,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "working"
+    "action": "working",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "3199b704074c995a6b12799ae049541b9e349d97856465fa0abf6fbed46a6167"
+  },
+  {
+    "character": "qwen",
+    "size": 32,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/qwen/32/NWPen.ani",
+    "hotspot": [
+      1,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "b6b98316f9c7fcc7b15916772a2cfbfe97f45f1a9e4155925362de16416bf9f5"
+  },
+  {
+    "character": "qwen",
+    "size": 48,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/qwen/48/NWPen.ani",
+    "hotspot": [
+      1,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "5d29441b12a0c5e5d176d1a1027d13fa1549c643c813a4e477033839b9d25a50"
+  },
+  {
+    "character": "qwen",
+    "size": 64,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/qwen/64/NWPen.ani",
+    "hotspot": [
+      1,
+      16
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "dc0ea1583f211e659686c9c0176fad19edf89125346977b12986dc8f95cf0854"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/qwen/96/NWPen.ani",
+    "hotspot": [
+      2,
+      24
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "a1475d5d770191fa1c943f4114733025d6e77815de6e29bda5811868eddeedcb"
+  },
+  {
+    "character": "qwen",
+    "size": 128,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/qwen/128/NWPen.ani",
+    "hotspot": [
+      2,
+      32
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "8ebe1966c67cf3b174e95fb8b82b1883c11feac657cec387977bd298e29231d6"
   },
   {
     "character": "qwen",
@@ -1122,7 +750,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "working"
+    "action": "working",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "3845888a6ebead7d89b4f80f1a427ecc364b468de963cfc3e54a6f0e40137e5f"
+  },
+  {
+    "character": "qwen",
+    "size": 32,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/qwen/32/No.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "2a06fe8756276b476c30d88a41bad1f17ed7700ea6d89864074de8e5c2a51581"
+  },
+  {
+    "character": "qwen",
+    "size": 48,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/qwen/48/No.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "459073a5c8d52698d6fc83ca34e14048bff14912428677218bde688aa9bcb198"
+  },
+  {
+    "character": "qwen",
+    "size": 64,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/qwen/64/No.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "fbfecce43069e25cfc8d074d363beba1a0df3530586884cd47e126a22aef6bac"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/qwen/96/No.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "5b67687bad455f212c67e1ca6d30fbcda71fe5548d9a94fdddccf238c51ae24f"
+  },
+  {
+    "character": "qwen",
+    "size": 128,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/qwen/128/No.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "be58de90c79b5b4fce397240d030e151d7afb9ad3a8a9b48cc4d22404231d948"
   },
   {
     "character": "qwen",
@@ -1137,7 +858,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "failed"
+    "action": "failed",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "22cda469995c22199a47b313c6a8460facba2a58febac8a915d05d60848d1d6e"
+  },
+  {
+    "character": "qwen",
+    "size": 32,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/qwen/32/SizeNS.ani",
+    "hotspot": [
+      2,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "85e925856ee77f3d3ae444b730ca5af00ae949f008e92b1ed9b49a8f303af59e"
+  },
+  {
+    "character": "qwen",
+    "size": 48,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/qwen/48/SizeNS.ani",
+    "hotspot": [
+      3,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "67e2d037c80cf300cef75dfa341ea50bf6bf02ec89da89191437a4a79e95eabc"
+  },
+  {
+    "character": "qwen",
+    "size": 64,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/qwen/64/SizeNS.ani",
+    "hotspot": [
+      3,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "727fd54e6aeec08f0b66261697a678af39519ffe1456e4ab3b2184cc48012761"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/qwen/96/SizeNS.ani",
+    "hotspot": [
+      5,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "43708c24690ada1e151dea421cec854501f118b4bf53d59142147ffcef211c73"
+  },
+  {
+    "character": "qwen",
+    "size": 128,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/qwen/128/SizeNS.ani",
+    "hotspot": [
+      7,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "efbab4aecf5bb0d285e38cd570daceb01aaa970172081c760d22913a33642a44"
   },
   {
     "character": "qwen",
@@ -1152,7 +966,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "jumping"
+    "action": "jumping",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "ef6df81465c4d021e7b675acb18394fc2356e3ab6423e270efadc452fbaabf0e"
+  },
+  {
+    "character": "qwen",
+    "size": 32,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/qwen/32/SizeWE.ani",
+    "hotspot": [
+      4,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "58972bb1c61d376356c6b98c3e75b8dd53e0feaf5e44adf5d37e6e2c8e72f6df"
+  },
+  {
+    "character": "qwen",
+    "size": 48,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/qwen/48/SizeWE.ani",
+    "hotspot": [
+      6,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "19aa880ce992481ac678fb4ef2d83411a025b4dd319e4dbbc4b1fb42683db622"
+  },
+  {
+    "character": "qwen",
+    "size": 64,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/qwen/64/SizeWE.ani",
+    "hotspot": [
+      8,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "2c30ad4b95d74c203aa680cb4a4ddf03a9e8d5ec7abc2a618e736868e5cbbc32"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/qwen/96/SizeWE.ani",
+    "hotspot": [
+      13,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "3e6754c8286eae5d79003bb1c58ff4ada54b3a0c8fdc168915784eee95af5f75"
+  },
+  {
+    "character": "qwen",
+    "size": 128,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/qwen/128/SizeWE.ani",
+    "hotspot": [
+      17,
+      7
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "5d5e2a9ec603d74b879ae867aafdda662b2b396746fb6b7a8df1bf0054ffeeef"
   },
   {
     "character": "qwen",
@@ -1167,7 +1074,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "walking-right"
+    "action": "walking-right",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "eb4b82764e38318f5658d020b4282bf297e3ae3437be670b024347a8a891a077"
+  },
+  {
+    "character": "qwen",
+    "size": 32,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/qwen/32/SizeNWSE.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "d0a61c73e504f96b833c37d1fe77aa54256adaeafd1adb4e306b75fb534ff5ca"
+  },
+  {
+    "character": "qwen",
+    "size": 48,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/qwen/48/SizeNWSE.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "18210bb784f214d2c9fb36f3b5e3396873f732601293478ed12ce3bbb5282ff3"
+  },
+  {
+    "character": "qwen",
+    "size": 64,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/qwen/64/SizeNWSE.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "6c6952e4f7226706bdf72ed6b1c2ba8ec6d439bada300d7eba857424deebbf03"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/qwen/96/SizeNWSE.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "c4986803e18ce7f69537f07f3a3f847b4ee3b3591a4a16bbab5d7ca9ee3fc6ac"
+  },
+  {
+    "character": "qwen",
+    "size": 128,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/qwen/128/SizeNWSE.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "13805e824bd98cc3e73c427585ee3aa96f36b24d0d8815fbbb9a3d9e7e5e7c45"
   },
   {
     "character": "qwen",
@@ -1182,7 +1182,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "walking-right"
+    "action": "walking-right",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "8f933bd85086013f582d374c2c6e50b8bd7d492b399c9f0f71c2a4f41776a03a"
+  },
+  {
+    "character": "qwen",
+    "size": 32,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/qwen/32/SizeNESW.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "197e2db9f2037083b6592bf5f38cbf047c4c53befa7c3dac5c6ac7d7539adca7"
+  },
+  {
+    "character": "qwen",
+    "size": 48,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/qwen/48/SizeNESW.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "97053ee20e11a2d542decb5fb2fbdc9a5e9717df8697670860abae1bd36237ed"
+  },
+  {
+    "character": "qwen",
+    "size": 64,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/qwen/64/SizeNESW.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "fe41385b6cead1281867bd1528bc1474a7b3271dc5eb77f5809b2aea76bc2278"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/qwen/96/SizeNESW.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "88311eecda83a52c18c10fb75051ccab5e0469ac15a3d036f6a53f82b8de0842"
+  },
+  {
+    "character": "qwen",
+    "size": 128,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/qwen/128/SizeNESW.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "0dfc855c1ed1a1cb1798bbe5cab8466c283870f1975cc9741409bb691cc98b84"
   },
   {
     "character": "qwen",
@@ -1197,7 +1290,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "walking-left"
+    "action": "walking-left",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "97e9431cdd92bfa06fe3d730258790299f8373dc2b629cc09075d7e1ff05503c"
+  },
+  {
+    "character": "qwen",
+    "size": 32,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/qwen/32/SizeAll.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "20b616ca3b47c2d711bf8b08e0e1c993029a38237b7b12cf27d7bcfb2f1e569e"
+  },
+  {
+    "character": "qwen",
+    "size": 48,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/qwen/48/SizeAll.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "49b14256994e68437bfd6451701e245fb4488def4cada79cff6a63fef4fc5712"
+  },
+  {
+    "character": "qwen",
+    "size": 64,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/qwen/64/SizeAll.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "879a426b981feb70c7a32247e09022491e6bf2b7fb176d16035c3f4a6d0511fb"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/qwen/96/SizeAll.ani",
+    "hotspot": [
+      13,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "06024f87d1141b4dec96dd47dad839e0488f0b551d8d81505c9908a906418a77"
+  },
+  {
+    "character": "qwen",
+    "size": 128,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/qwen/128/SizeAll.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "a643d297a937adc4eafdd8f3e93043609629334e9873987d2fb77ff162a9be51"
   },
   {
     "character": "qwen",
@@ -1212,7 +1398,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "walking-right"
+    "action": "walking-right",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "085863db9f18a0bb9e83be6ef91b72c899ea1bf11bab64aa7cf0fc10eb56e987"
+  },
+  {
+    "character": "qwen",
+    "size": 32,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/qwen/32/UpArrow.ani",
+    "hotspot": [
+      4,
+      0
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "58a0df3601eb4e2b8e7a760963920c1b7c5aa5aab33524dc6cb31f7629fdb05d"
+  },
+  {
+    "character": "qwen",
+    "size": 48,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/qwen/48/UpArrow.ani",
+    "hotspot": [
+      5,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "4d5ddb8cc962dc1439ca5de95b2d329cf78c17420f0072d700bb0ef4526d0255"
+  },
+  {
+    "character": "qwen",
+    "size": 64,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/qwen/64/UpArrow.ani",
+    "hotspot": [
+      7,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "47ab8e5cb8337b90e1dcd6bf521186f5dd38611b96157c40df074e9e79cd40bc"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/qwen/96/UpArrow.ani",
+    "hotspot": [
+      11,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "3750031eb1ce0cd0b7f21aa769339065f8f14ec53b6a7fd88d941f6f360903ce"
+  },
+  {
+    "character": "qwen",
+    "size": 128,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/qwen/128/UpArrow.ani",
+    "hotspot": [
+      14,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "8e8a173e367b4a244b8127f010e42ac486ce7830ed3716e03cb458b11377aabb"
   },
   {
     "character": "qwen",
@@ -1227,7 +1506,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "jumping"
+    "action": "jumping",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "d0a56f686cdd78fb922ab9736fbccb43536868542b774790b0bc5767e917f5ab"
+  },
+  {
+    "character": "qwen",
+    "size": 32,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/qwen/32/Hand.ani",
+    "hotspot": [
+      3,
+      0
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "10f45580fcbeb01ebde36ad98e4430cff3fdaa6f8a20af8d0747cb19de79f904"
+  },
+  {
+    "character": "qwen",
+    "size": 48,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/qwen/48/Hand.ani",
+    "hotspot": [
+      4,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "460ca0340cd2f2f73b385fb2521d2ce909d2608d91162fe5a0435e105ab2e0f0"
+  },
+  {
+    "character": "qwen",
+    "size": 64,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/qwen/64/Hand.ani",
+    "hotspot": [
+      5,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "b07a37212a52f0f0260db953d68edc2ba280724ba45751c7df22d906749031e9"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/qwen/96/Hand.ani",
+    "hotspot": [
+      8,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "29d6dd7d741bafc75bff1b46239f7b157cf17eb61119043b49bcf4d117849924"
+  },
+  {
+    "character": "qwen",
+    "size": 128,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/qwen/128/Hand.ani",
+    "hotspot": [
+      10,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "d05359bfb6fc53a541df98d5e8d3f6447bb7595d175f733c447c551bd2d80732"
   },
   {
     "character": "qwen",
@@ -1242,7 +1614,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "waving",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "c29f0d292dfce06085c30bb8f0bf63c649a39f395d72e3f74e8346facc3d5d96"
+  },
+  {
+    "character": "qwen",
+    "size": 32,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/qwen/32/Pin.ani",
+    "hotspot": [
+      3,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "6750a15910096d6fdc0c58fc67e44f2d35ab14f30ae4fff1db2690b308546f6f"
+  },
+  {
+    "character": "qwen",
+    "size": 48,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/qwen/48/Pin.ani",
+    "hotspot": [
+      5,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "e067183c7b2b872cd2286c8eac16e782ccae97c613edf6d31f7f86f328ec0912"
+  },
+  {
+    "character": "qwen",
+    "size": 64,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/qwen/64/Pin.ani",
+    "hotspot": [
+      7,
+      16
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "b46084fc9eb2be86de8d5b2e5ed656391540a851847c3a149b0c8b0dde811f6c"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/qwen/96/Pin.ani",
+    "hotspot": [
+      10,
+      24
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "741989df2bc69da7f291181a42ffd982ace713eb29523d6f8c2707e48e0dfaf7"
+  },
+  {
+    "character": "qwen",
+    "size": 128,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/qwen/128/Pin.ani",
+    "hotspot": [
+      13,
+      32
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "ca3b6eb531ec4ff38792324c52018212157cb8696a5b7c73d23d8b628256f324"
   },
   {
     "character": "qwen",
@@ -1257,7 +1722,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "waiting"
+    "action": "waiting",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "2f5bc985b39c78e657b63d82d6080bd9809c52721d3b33b6a1eb2eda365e4a03"
+  },
+  {
+    "character": "qwen",
+    "size": 32,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/qwen/32/Person.ani",
+    "hotspot": [
+      4,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "c9f91c353e806b23efa7f5429b7606b995dbea823535165df2a9cd5c8bd87cf7"
+  },
+  {
+    "character": "qwen",
+    "size": 48,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/qwen/48/Person.ani",
+    "hotspot": [
+      6,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "4331536252cb6606019321e8b1b3b39154db11696e9d02d671017aee216afbab"
+  },
+  {
+    "character": "qwen",
+    "size": 64,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/qwen/64/Person.ani",
+    "hotspot": [
+      8,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "13fda6c56c19fcb54f5cb67e8f38e91509f9dc3e057d2b6367da185170a8ed17"
+  },
+  {
+    "character": "qwen",
+    "size": 96,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/qwen/96/Person.ani",
+    "hotspot": [
+      12,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "bca018f281bd8b211df8df96e5552fd0c60af1c3263d58ead5023d89a96ea711"
+  },
+  {
+    "character": "qwen",
+    "size": 128,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/qwen/128/Person.ani",
+    "hotspot": [
+      15,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "e78423fdb5b24c8be7fb747db653334ca676a39b48972686fd4f607a9e91422f"
   },
   {
     "character": "qwen",
@@ -1272,6 +1830,9 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "waving",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "7a7cf6776a4aa00a86824558479e0738fab5bbe77b49dbae42e88d955712e3c1"
   }
 ]

@@ -1,0 +1,65 @@
+{
+  "version": "1.2.0",
+  "success": true,
+  "fileVerification": {
+    "repository": "qwen-cursors",
+    "aniFiles": 221,
+    "decodedFrames": 1768,
+    "characterIdentityFrames": 952,
+    "maxGapError": 1.0,
+    "rawSourceFilesUnchanged": 20,
+    "paletteChecks": [
+      {
+        "character": "qwen",
+        "edition": "original",
+        "size": 96,
+        "outline": "#231f45",
+        "verified": true
+      },
+      {
+        "character": "qwen",
+        "edition": "original",
+        "size": 256,
+        "outline": "#231f45",
+        "verified": true
+      },
+      {
+        "character": "qwen",
+        "edition": "plus",
+        "size": 96,
+        "outline": "#231f45",
+        "verified": true
+      },
+      {
+        "character": "qwen",
+        "edition": "plus",
+        "size": 256,
+        "outline": "#231f45",
+        "verified": true
+      }
+    ],
+    "success": true
+  },
+  "actualWindowsAcceptance": {
+    "repository": "qwen-cursors",
+    "observations": 32,
+    "sameDefaultCaptures": 15,
+    "nativeCharacterComparisons": [
+      {
+        "character": "qwen",
+        "samePhysicalSize": true,
+        "opaquePixelsCompared": 3438,
+        "maxRGBDifference": 0,
+        "ordinaryCompositionPixelsExcluded": 0,
+        "offset": [
+          10,
+          10
+        ]
+      }
+    ],
+    "success": true
+  },
+  "environment": "Windows11-Lab; interactive LabUser; 96DPI; system preference32 and48",
+  "scope": "This repository: real CMD for every character/tier; all17 native system role sizes; default-scheme pixel identity. Shared edge-case tests: Gemini reboot, user-size48, INF96/256, legacy-backup filtering, cache repair, matching-name foreign paths.",
+  "limitations": "Actual VM acceptance covers this Windows11 build at96DPI; otherWindows versions and DPI combinations are not claimed tested."
+}
