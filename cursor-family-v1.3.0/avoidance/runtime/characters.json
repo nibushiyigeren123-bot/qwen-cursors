@@ -1,0 +1,171 @@
+[
+  {
+    "id": "qwen-original-32",
+    "character": "qwen",
+    "display": "Qwen 普通 32档",
+    "scheme": "AI Family avoidance v1.3.0 - qwen original 32",
+    "edition": "original",
+    "size": 32,
+    "symbolLongEdge": 8,
+    "bodyCanvas": [
+      32,
+      32
+    ]
+  },
+  {
+    "id": "qwen-original-48",
+    "character": "qwen",
+    "display": "Qwen 普通 48档",
+    "scheme": "AI Family avoidance v1.3.0 - qwen original 48",
+    "edition": "original",
+    "size": 48,
+    "symbolLongEdge": 12,
+    "bodyCanvas": [
+      46,
+      48
+    ]
+  },
+  {
+    "id": "qwen-original-64",
+    "character": "qwen",
+    "display": "Qwen 普通 64档",
+    "scheme": "AI Family avoidance v1.3.0 - qwen original 64",
+    "edition": "original",
+    "size": 64,
+    "symbolLongEdge": 16,
+    "bodyCanvas": [
+      60,
+      63
+    ]
+  },
+  {
+    "id": "qwen-original-96",
+    "character": "qwen",
+    "display": "Qwen 普通 96档",
+    "scheme": "AI Family avoidance v1.3.0 - qwen original 96",
+    "edition": "original",
+    "size": 96,
+    "symbolLongEdge": 20,
+    "bodyCanvas": [
+      88,
+      92
+    ]
+  },
+  {
+    "id": "qwen-original-128",
+    "character": "qwen",
+    "display": "Qwen 普通 128档",
+    "scheme": "AI Family avoidance v1.3.0 - qwen original 128",
+    "edition": "original",
+    "size": 128,
+    "symbolLongEdge": 24,
+    "bodyCanvas": [
+      116,
+      121
+    ]
+  },
+  {
+    "id": "qwen-original-256",
+    "character": "qwen",
+    "display": "Qwen 普通 256档",
+    "scheme": "AI Family avoidance v1.3.0 - qwen original 256",
+    "edition": "original",
+    "size": 256,
+    "symbolLongEdge": 28,
+    "bodyCanvas": [
+      224,
+      232
+    ]
+  },
+  {
+    "id": "qwen-plus-32",
+    "character": "qwen",
+    "display": "Qwen Plus 32档",
+    "scheme": "AI Family avoidance v1.3.0 - qwen plus 32",
+    "edition": "plus",
+    "size": 32,
+    "symbolLongEdge": 12,
+    "bodyCanvas": [
+      32,
+      32
+    ]
+  },
+  {
+    "id": "qwen-plus-48",
+    "character": "qwen",
+    "display": "Qwen Plus 48档",
+    "scheme": "AI Family avoidance v1.3.0 - qwen plus 48",
+    "edition": "plus",
+    "size": 48,
+    "symbolLongEdge": 16,
+    "bodyCanvas": [
+      46,
+      48
+    ]
+  },
+  {
+    "id": "qwen-plus-64",
+    "character": "qwen",
+    "display": "Qwen Plus 64档",
+    "scheme": "AI Family avoidance v1.3.0 - qwen plus 64",
+    "edition": "plus",
+    "size": 64,
+    "symbolLongEdge": 20,
+    "bodyCanvas": [
+      60,
+      63
+    ]
+  },
+  {
+    "id": "qwen-plus-72",
+    "character": "qwen",
+    "display": "Qwen Plus 72档",
+    "scheme": "AI Family avoidance v1.3.0 - qwen plus 72",
+    "edition": "plus",
+    "size": 72,
+    "symbolLongEdge": 22,
+    "bodyCanvas": [
+      68,
+      70
+    ]
+  },
+  {
+    "id": "qwen-plus-96",
+    "character": "qwen",
+    "display": "Qwen Plus 96档",
+    "scheme": "AI Family avoidance v1.3.0 - qwen plus 96",
+    "edition": "plus",
+    "size": 96,
+    "symbolLongEdge": 24,
+    "bodyCanvas": [
+      88,
+      92
+    ]
+  },
+  {
+    "id": "qwen-plus-128",
+    "character": "qwen",
+    "display": "Qwen Plus 128档",
+    "scheme": "AI Family avoidance v1.3.0 - qwen plus 128",
+    "edition": "plus",
+    "size": 128,
+    "symbolLongEdge": 28,
+    "bodyCanvas": [
+      116,
+      121
+    ]
+  },
+  {
+    "id": "qwen-plus-256",
+    "character": "qwen",
+    "display": "Qwen Plus 256档",
+    "scheme": "AI Family avoidance v1.3.0 - qwen plus 256",
+    "edition": "plus",
+    "size": 256,
+    "symbolLongEdge": 30,
+    "bodyCanvas": [
+      224,
+      232
+    ]
+  }
+]

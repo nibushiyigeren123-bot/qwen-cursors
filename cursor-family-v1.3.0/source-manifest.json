@@ -1,0 +1,26 @@
+{
+  "version": "v1.3.0",
+  "packages": [
+    {
+      "kind": "non-avoidance",
+      "name": "qwen-cursors-non-avoidance-v1.3.0.zip",
+      "sha256": "fa8317075ce4e6eb8bced0ee3a7a1c2908493a08a195073a03b2d27f66789583",
+      "coreSha256": "439155a4cd911b60b6d67880a386a105ee86687419cb2531346d20abbce4349b",
+      "profiles": 13,
+      "characters": [
+        "qwen"
+      ]
+    },
+    {
+      "kind": "avoidance",
+      "name": "qwen-cursors-avoidance-v1.3.0.zip",
+      "sha256": "abbd1db29fd9088b933d63e8a39fd18d7852aefd96225adbc11d89cfb18ac307",
+      "coreSha256": "95a24bd9db6be92a126df4babc201e73aba80808a5d0504d644ab95b119fff74",
+      "profiles": 13,
+      "characters": [
+        "qwen"
+      ]
+    }
+  ],
+  "resources": "Complete editable PNG/ANI assets are included in the corresponding installation ZIP."
+}
