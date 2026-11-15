@@ -1,0 +1,30 @@
+{
+  "version": "v1.4.0",
+  "kind": "full-avoidance",
+  "runtimeSha256": "0e7a173da8c96ac7e1d21386966e90095b0083e2959c9eba4436406a5a20ff23",
+  "assets": [
+    {
+      "name": "qwen-cursors-full-avoidance-v1.4.0.zip",
+      "bytes": 42640289,
+      "sha256": "a92d9ce27487fe30c510fa05ebe4fd4aa29931a402bfef87b7c572184a42d882"
+    },
+    {
+      "name": "qwen-cursors-full-avoidance-source-v1.4.0.zip",
+      "bytes": 282011,
+      "sha256": "33c72649c1256ede489773ea4e4e65fc16bb575a3f418d2f9457f79af0423624"
+    },
+    {
+      "name": "VALIDATION.md",
+      "bytes": 2599,
+      "sha256": "95f05bd4982c9293728ee1447c63c4a783632827f79f985e549ab0632970173f"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 219,
+      "sha256": "b7f63b05bf71e46900089b983ec7fef05eb5338f5925dae89468deb389817d0e"
+    }
+  ],
+  "originalCmdInvocationPreserved": true,
+  "cmdWaitingMessageAdded": 13,
+  "originalMediaUnchanged": true
+}

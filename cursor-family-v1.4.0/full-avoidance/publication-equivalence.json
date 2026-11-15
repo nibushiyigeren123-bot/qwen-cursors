@@ -1,0 +1,126 @@
+{
+  "version": "v1.4.0",
+  "repository": "qwen-cursors",
+  "localDeliveryZipSha256": "f0852f6bf35d21064bcb690ce998ed98b930d7b333b24888a1e6ed7fe472df2e",
+  "runtimeSha256": "0e7a173da8c96ac7e1d21386966e90095b0083e2959c9eba4436406a5a20ff23",
+  "unchangedExistingMembers": 2021,
+  "unchangedMedia": 1989,
+  "unchangedCmd": 2,
+  "cmdInvocationPreserved": 15,
+  "cmdWaitingMessageAdded": 13,
+  "allowedModifiedExisting": [
+    "README.md",
+    "VALIDATION.md",
+    "技术说明.md",
+    "candidate-consistency.json",
+    "v140-package-provenance.json",
+    "release-equivalence.json",
+    "payload-hashes.json",
+    "validation-evidence/win10-evidence-index.json",
+    "validation-evidence/win11-evidence-index.json",
+    "16_Qwen/Plus128档.cmd",
+    "16_Qwen/Plus256档.cmd",
+    "16_Qwen/Plus32档.cmd",
+    "16_Qwen/Plus48档.cmd",
+    "16_Qwen/Plus64档.cmd",
+    "16_Qwen/Plus72档.cmd",
+    "16_Qwen/Plus96档.cmd",
+    "16_Qwen/普通128档.cmd",
+    "16_Qwen/普通256档.cmd",
+    "16_Qwen/普通32档.cmd",
+    "16_Qwen/普通48档.cmd",
+    "16_Qwen/普通64档.cmd",
+    "16_Qwen/普通96档.cmd"
+  ],
+  "modifiedExisting": {
+    "16_Qwen/Plus128档.cmd": {
+      "before": "235697f0d692f71757e3d7ca57f7612fe57a5567c0435f1a215f80cbfb07fdf9",
+      "after": "80a9eb5bcd731a33210bd49377717f7aa7b145bba34d1101f40c821e161d1c1b"
+    },
+    "16_Qwen/Plus256档.cmd": {
+      "before": "5f99fae208dc81be31854c8bf6f131d36abfe1883d07d80d5b6771638e6dbb1a",
+      "after": "c1376438adabd8cbf9a3681c9c8fbbb61ecd963ac5e5f25f2526d0476a29a3de"
+    },
+    "16_Qwen/Plus32档.cmd": {
+      "before": "33a6b6e2e4fa73139f88802f0354f8d5421c434b3e7e330ee7f0cb2193ce40bf",
+      "after": "65ef25663cdfe876ccc680caa53b08fa5d9b60a13516133f1c0fef103418c0aa"
+    },
+    "16_Qwen/Plus48档.cmd": {
+      "before": "842db6e188525b1ef3559cc3c9370686cf02209716af651d7e289885c4725e6d",
+      "after": "bb47ca582526c00eee097fb473a26deeeb076385aa8ab03e4f36a7e2aea93cc8"
+    },
+    "16_Qwen/Plus64档.cmd": {
+      "before": "c087167f5f802c4ef32824fd2409070174477b0958d0e3613bfc6128724b4614",
+      "after": "5b7a6a8eeafe700c7887acbc4f12b0a49eea4ec846535dc1ca8fc5918ef39f93"
+    },
+    "16_Qwen/Plus72档.cmd": {
+      "before": "f0b7b222c7ba844817b355d5db4bbe0b791078cc67fa73113b1947cea7a0d9b0",
+      "after": "1b1a870e04996ed33cbcbdf12bcf37a100625bb90a014fd17671bc7ddfed208b"
+    },
+    "16_Qwen/Plus96档.cmd": {
+      "before": "3eeb5561730d834cdbedd310dc2a6c7eaa0d6bd3ded7439116e59c37e157ddd7",
+      "after": "70aeda3442975536ce9c2abd46763b20c68f312986781e65b034167b8a8040ef"
+    },
+    "16_Qwen/普通128档.cmd": {
+      "before": "3933e0cfa6f488b9bef0d0f2db9270ec98287d93088484429a9ac08793202413",
+      "after": "bc0268ba30340a04fb1224db59679e49201e9e3688124ca828ad6096ce4ad8ce"
+    },
+    "16_Qwen/普通256档.cmd": {
+      "before": "ecdd601e6258d50aada1a193adc5e89d60fa900eb60f1853b27908c996654778",
+      "after": "19981857a5df6209d497b97485370134f912d2a02fa37968b04fd864f4557643"
+    },
+    "16_Qwen/普通32档.cmd": {
+      "before": "8da6769410a567cb14c7bcd1f51fcb10c81a93c412cf5698034bab8e1cc24e60",
+      "after": "81b4087ee9455d2d5e72f4f28f44f24be47279d76336b19493cc6fc45c400803"
+    },
+    "16_Qwen/普通48档.cmd": {
+      "before": "6f52ee16e0dd9cdab61370a78d5417317ed54ed4593e90ec97fab0dd89831a88",
+      "after": "d06b7782484a317a0652ee01d558620f25a376f02bcb65e9fea3b921970482db"
+    },
+    "16_Qwen/普通64档.cmd": {
+      "before": "fb28bca3555f640e80b0924bb28c42e280e8ddf2f43ce1a85918e4b65eec1102",
+      "after": "f220324f0776866564fd9879e80e6a53659ca2fe99f3cbb34bc5015e93a437a7"
+    },
+    "16_Qwen/普通96档.cmd": {
+      "before": "7f78a8570a50079f5650ed54a868ec98f103e29ff26f7457e98067a573f43067",
+      "after": "a68cb71e95be6db1eacce2d2e94ead6639f2e79147f62dbcb12d8e8266373e28"
+    },
+    "README.md": {
+      "before": "4e8f096a924eadb79e2db9beb2fc9a46e6450bdc5c34d30335fc4ed8dce4f519",
+      "after": "5e7a0639069efe145b74bde45178ee121516b77263c512d5cded024ff2858261"
+    },
+    "VALIDATION.md": {
+      "before": "a6fbc6c5bb87bd5237b942a15a9e9e5bb6cd56347414c891716854c01043e714",
+      "after": "95f05bd4982c9293728ee1447c63c4a783632827f79f985e549ab0632970173f"
+    },
+    "candidate-consistency.json": {
+      "before": "13279c5413f81c2d4ecf3ce266c464848b371b4e66dfd637fc2fd802d19968a4",
+      "after": "68085461f8055021c77e06b0af0d726512219ebb3933a34f80bf1deeebd8e36b"
+    },
+    "release-equivalence.json": {
+      "before": "f2855c05dfc2f9b2797d20acb777b2e2bc2f4d7bc7e513893072af7e34d86042",
+      "after": "e9fe7639e0c77b3a1dfc8b197a2546a78a17a11e69f08256a419c79de9915ccb"
+    },
+    "v140-package-provenance.json": {
+      "before": "cf1c6aa5f29a26f948446bf5349acb4b1c3b0c07c202dcea2dbf1436a78aa442",
+      "after": "fd5644e7f20744f721632de874f5ef2da91628ea265aaf5449472cf65289cfd1"
+    },
+    "validation-evidence/win10-evidence-index.json": {
+      "before": "0714d0c4e5960680df8b12366693655b477dff5adfd0c25d328ebc8636f4154d",
+      "after": "c02b3721c65f9354c932756c09e0fea1c2d6190c59c6583c88fef84ce8db1cd0"
+    },
+    "validation-evidence/win11-evidence-index.json": {
+      "before": "37f54f18306c8e0c11e669fe4b6e0394df307d6a5042adb49e08ba0d05f29064",
+      "after": "1bf03d69d019d73ffb73257e996b85d34534397261cb292066a0c684e601c681"
+    },
+    "技术说明.md": {
+      "before": "7d783eeb032a9fed257ed219af63e899d5009d3eeb7f54ec3ac824b2dfce1f95",
+      "after": "f6a57635bbacbe2d7bafaa885957dc870565dddb917ab49e60aaf81e38a8ff38"
+    }
+  },
+  "deletedMembers": [],
+  "addedMembers": [
+    "publication-equivalence.json"
+  ],
+  "runtimeAndSourceAndConfigurationUnchanged": true
+}
